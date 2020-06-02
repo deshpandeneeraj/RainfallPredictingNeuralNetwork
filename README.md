@@ -6,7 +6,7 @@ A simple implementation of a 2 layered Neural Network developed using Keras pack
 Both layers are Dense layers from tf.keras.layers module
 
 Architecture:
-![NN Architecture Image](https://user-images.githubusercontent.com/45695989/83488602-c1344a00-a4ca-11ea-8d43-8da231e5e81f.pn
+![Architecture](https://user-images.githubusercontent.com/45695989/83488953-50416200-a4cb-11ea-9de8-5b841aa313b7.png)
 
 Dataset used:
   Weather in Australia Dataset was used for training the model.
